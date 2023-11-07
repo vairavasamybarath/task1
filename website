@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>myself</title>
+        <link rel="icon" href="date.png">
+    </head>
+
+    <body bgcolor="#ffd872">
+      <CENTER>
+        <h1>MY SELF</h1>
+    </CENTER>
+    
+    <center>
+    <img src="BARATH.jpeg" width="250">
+    <h1>HI AM VAIRAVASAMY STUDYING IT IN JEPPIAAR INSTITUTE OF TECHNOLOGY</h1>
+    <HR>
+    </center>
+    
+    <CENTER>
+        <h2>ABOUT</h2>
+        <p>I AM VAIRAVASAMY,A PASSIONATE AND VERSATILE DEVELOPER PROFICIENT IN HTML,CSS,PYTHON AND C.WITH A LOVE FOR WEBDEVELOPMENT.
+            WHETHER IT DESIGNING SLEEK USER INTERFACES OR DIVING INTO THE BACKEND INTRICACIES,I THRIVE ON TURNING IDES INTO REALITY.
+            LET'S CONNECT,COLLABORATE AND BUILD SOMETHING EXTRAORDINARY TOGETHER. </p>
+
+    </CENTER>
+    
+    <CENTER>
+        <h2>MY SKILLS</h2>
+        <P>BACKEND</P>
+        <P>I KNOW SOME PROGRAMMING LANGUAGES LIKE PYTHON ,C AND SOME BASICS IN JAVA</P>
+        <HR>
+    </CENTER>
+
+    <CENTER>
+        <H1>
+            CONTACT
+        </H1>
+
+        <H2>PH:8220070560 | GMAIL:mvairavasamy3@gmail.com</H2>
+    </CENTER>
+
+    </body>
+</html>
+
+
+
+
+    
